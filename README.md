@@ -28,7 +28,7 @@
 
 ### Most used languages
 <div align="start" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mduc-dev&layout=compact&title_color=a97bff&text_color=FFFFFF&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dngns&layout=compact&title_color=a97bff&text_color=FFFFFF&bg_color=0d1117" height="150"/>
 </div>
 
 ### **Connect with me**:
