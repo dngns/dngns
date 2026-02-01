@@ -1,4 +1,11 @@
-### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manh Duc
+### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manh Duc (dngns)
+
+> **“Make it work, make it right, make it fast.”**  
+> — *Kent Beck*
+
+### **Connect with me**:
+- Reach me at [duc040301@gmail.com](mailto:duc040301@gmail.com)
+- Connect on [LinkedIn](https://www.linkedin.com/in/mduc-engineer)
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -26,14 +33,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Most used languages
-<div align="start" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dngns&layout=compact&title_color=a97bff&text_color=FFFFFF&bg_color=0d1117" height="150"/>
-</div>
 
-### **Connect with me**:
-- 📫 Reach me at [duc040301@gmail.com](mailto:duc040301@gmail.com)
-- 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/mduc-engineer)
 
 <!--
 **ducnguyen4301/DucNguyen4301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
